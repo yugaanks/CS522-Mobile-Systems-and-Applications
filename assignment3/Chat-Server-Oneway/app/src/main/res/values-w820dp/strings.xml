@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_user_name">Peers</string>
+    <string name="view_timestamp">Timestamp</string>
+    <string name="view_address">Address</string>
+    <string name="view_port">Port</string>
+    <string name="user_name_summary">Peer Summary</string>
+    <string name="default_user_name">Default</string>
+</resources>
